@@ -1,0 +1,22 @@
+{
+  "name": "vanilla-node-demo",
+  "version": "1.0.0",
+  "description": "Sigma introduction to node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukeSchlangen/vanilla-node.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Luke Schlangen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LukeSchlangen/vanilla-node/issues"
+  },
+  "homepage": "https://github.com/LukeSchlangen/vanilla-node#readme"
+}
